@@ -6,17 +6,20 @@
   <table>
   <tr>
     <td>
-## In the below ChatBot you can query few quesions listed below
-### Hi
-### What is your name
-### How old are you
-### What are you doinhg
-### What is your bot name
-### How may questions are there
-### Where are you living
-### Are you studying
-### What is your mail id
-### do you have microsoft account
+      <h3> In the below ChatBot you can query few quesions listed below</h3>
+      <ul>
+          <li>Hi</li>
+          <li>What is your name</li>
+          <li>How old are you</li>
+          <li>What are you doing</li>
+          <li>What is your bot name</li>
+          <li>What is your bot name</li>
+          <li>How may questions are there</li>
+          <li>Where are you living</li>
+          <li>Are you studying</li>
+          <li>What is your mail id</li>
+          <li>do you have microsoft account</li>
+      </ul>
 </td>
     <td>
   

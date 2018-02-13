@@ -3,16 +3,19 @@
 <script>
   $("#banner").css("visibility","hidden");
   </script>
-### Markdown
+## In the below ChatBot you can query few quesions listed below
+###Hi
+###What is your name
+###How old are you
+###What are you doing
+###What is your bot name
+###How may questions are there
+###Where are you living
+###Are you studying
+###What is your mail id
+###do you have microsoft account
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 
 <center>

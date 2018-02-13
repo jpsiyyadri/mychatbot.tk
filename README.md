@@ -2,6 +2,7 @@
 
 <script>
   $("#banner").css("visibility","hidden");
+  $("p").css("visibility","hidden");
   </script>
   <table bordercolor="blue">
   <tr>

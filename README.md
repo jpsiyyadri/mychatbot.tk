@@ -1,7 +1,7 @@
 
 
 <script>
-  document.getElementBYId("banner").visibility="hidden";
+  $("#banner").css("visibility","hidden");
   </script>
 ### Markdown
 

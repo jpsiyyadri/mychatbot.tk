@@ -4,7 +4,7 @@
   $("#banner").css("visibility","hidden");
 
   </script>
-  <table bordercolor="blue">
+  <table bordercolor="#5DBCD2">
   <tr>
     <td>
       <h3> In the ChatBot you can query few quesions listed below</h3>
@@ -31,9 +31,10 @@
   </td>
   </tr>
   </table>
-  <address>
   <center>
-This ChatBot is developed by  <a href="mailto:sjaiprakash109@gmail.com"><h4>Jaiprakash Siyyadri</h4></a>.<br> 
+  <address>
+  
+This ChatBot is developed by  <a href="mailto:sjaiprakash109@gmail.com"><h4>Jaiprakash Siyyadri</h4></a><br> 
 JNTU Hyderabad<br>
   INDIA<br>
 </address>

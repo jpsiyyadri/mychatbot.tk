@@ -3,10 +3,10 @@
 <script>
   $("#banner").css("visibility","hidden");
   </script>
-  <table>
+  <table bordercolor="blue">
   <tr>
     <td>
-      <h3> In the below ChatBot you can query few quesions listed below</h3>
+      <h3> In the ChatBot you can query few quesions listed below</h3>
       <ul>
           <li>Hi</li>
           <li>What is your name</li>

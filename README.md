@@ -1,4 +1,4 @@
-
+<link rel="shortcut icon" href="img.jpg" />
 
 <script>
   $("#banner").css("visibility","hidden");

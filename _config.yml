@@ -3,3 +3,5 @@ theme: jekyll-theme-leap-day
 title: mychatbot
 description: chatbot for me
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+author:
+  name: JP

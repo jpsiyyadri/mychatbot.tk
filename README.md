@@ -1,3 +1,4 @@
+<title>jp</title>
 <link rel="shortcut icon" href="img.jpg" />
 
 <script>

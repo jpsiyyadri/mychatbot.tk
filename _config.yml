@@ -1,4 +1,5 @@
 theme: jekyll-theme-leap-day
 
-title: [xxx]
-description: [yyy]
+title: mychatbot
+description: chatbot for me
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
